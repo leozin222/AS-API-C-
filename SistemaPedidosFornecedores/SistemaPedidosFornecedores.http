@@ -1,0 +1,6 @@
+@SistemaPedidosFornecedores_HostAddress = http://localhost:5114
+
+GET {{SistemaPedidosFornecedores_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
